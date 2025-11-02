@@ -1,4 +1,4 @@
-# Project Overview
+## Project Overview
 This project is designed to strengthen your understanding of React Hooks, state management, and API integration.
 It covers the core concepts of modern React development while interacting with a local JSON database (db.json) to perform full CRUD operations.
 
